@@ -17,12 +17,13 @@ p {
     
     background-color: darkseagreen }
 
-body{
-background-image: url("../imgs/g2.jpg")
-}
+
 
 a:hover {
     
     background-color:whitesmoke
 }
 
+{
+background-image: url("../imgs/g2.jpg")
+}
