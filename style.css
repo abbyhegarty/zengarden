@@ -5,16 +5,23 @@ body
         color: black
 }
 
-
+*{
+    font-family: georgia
+}
 
 h1 {
-    background-color: green
+    background-color: seagreen
 }
 
 p {
     
-    background-color: darkseagreen
+    background-color: darkseagreen }
+body{
+background-image: url("../imgs/g2.jpg")
 }
 
-
+a:hover {
+    
+    background-color:whitesmoke
+}
 
