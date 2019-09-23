@@ -3,7 +3,11 @@ body
 {
     
         color: black;
-        background-image: url(imgs/g2.jpg)}
+        background-image: url(imgs/g2.jpg);
+        background-image: no-repeat; 
+
+
+}
 
 *{
     font-family: georgia
@@ -24,5 +28,4 @@ a:hover {
     background-color:whitesmoke
 }
 
-*{
-    background-image: url(imgs/g2.jpg)}
+
